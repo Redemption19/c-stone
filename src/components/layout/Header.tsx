@@ -1,6 +1,7 @@
 import React from 'react';
 import { Menu, X, Phone } from 'lucide-react';
 import { Link, useLocation } from 'react-router-dom';
+import logo from '@assets/images/logo-cstone.png';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
@@ -25,7 +26,7 @@ const Header = () => {
             <Link to="/" className="flex items-center">
                  {/* Logo instead of text */}
                  <img
-                src="src/assets/images/logo-cstone.png" // Replace with the path to your logo
+                src={logo}
                 alt="Cornerstone Innovations Logo"
                 className="h-10" // Adjust the size as necessary
               />
