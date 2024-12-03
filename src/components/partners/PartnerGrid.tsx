@@ -3,12 +3,12 @@ import React from 'react';
 const partners = [
   {
     name: 'Ghana Agricultural Bank',
-    logo: 'https://images.unsplash.com/photo-1560472355-536de3962603?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80',
+    logo: 'https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     category: 'Financial Services',
   },
   {
     name: 'Rural Development Fund',
-    logo: 'https://images.unsplash.com/photo-1551836022-deb4988cc6c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80',
+    logo: 'https://images.pexels.com/photos/4314674/pexels-photo-4314674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     category: 'Community Development',
   },
   {
