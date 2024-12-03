@@ -16,7 +16,7 @@ const ContactInfo = () => {
     {
       icon: <Mail className="w-6 h-6 text-green-600" />,
       title: 'Email',
-      info: 'info@cornerstone.com',
+      info: 'cstoneinnovation20@gmail.com',
     },
     {
       icon: <Clock className="w-6 h-6 text-green-600" />,
