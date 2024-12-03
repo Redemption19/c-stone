@@ -7,19 +7,19 @@ const Mission = () => {
       icon: <Target className="w-12 h-12 text-green-600" />,
       title: 'Mission',
       description:
-        'To empower rural communities in Ghana through innovative financial solutions, sustainable agriculture, and reliable telecommunications services.',
+        'Empowering rural communities through innovative financial, agricultural, and training solutions.',
     },
     {
       icon: <Heart className="w-12 h-12 text-green-600" />,
       title: 'Vision',
       description:
-        'To be the leading catalyst for rural economic transformation in Ghana, creating prosperous and connected communities.',
+        'To be the leading provider of integrated services that transform the lives of rural communities in Ghana',
     },
     {
       icon: <Globe className="w-12 h-12 text-green-600" />,
       title: 'Values',
       description:
-        'Integrity, Innovation, Community Impact, Sustainability, and Excellence in everything we do.',
+        'Innovation, Customer Focus, Integrity, Collaboration, Empowerment.',
     },
   ];
 
