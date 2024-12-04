@@ -8,7 +8,7 @@ const Story = () => {
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Our Story</h2>
           <div className="prose prose-lg mx-auto">
             <p className="text-gray-600 mb-6">
-              Founded in 2020 in Kpong, Ghana, Cornerstone Innovations emerged from a deep understanding 
+              Founded in 2018 in Kpong, Ghana, Cornerstone Innovations emerged from a deep understanding 
               of the challenges faced by rural communities in accessing financial services and 
               agricultural resources.
             </p>
