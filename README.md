@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, email info@cornerstone.com or join our Slack channel.
 
-## Roadmap
+## Roadmap - Features to be implemented
 
 - [ ] Add multi-language support
 - [ ] Implement real-time chat support
