@@ -2,7 +2,7 @@
 
 A modern web application built with React, TypeScript, and Tailwind CSS, designed to serve rural communities in Ghana through financial services, agriculture, and telecommunications.
 
-![Cornerstone Innovations](https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Cornerstone Innovations](src/assets/images/homepaage-screenshot.png)
 
 ## Features
 
