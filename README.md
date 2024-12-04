@@ -75,12 +75,12 @@ A modern web application built with React, TypeScript, and Tailwind CSS, designe
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/cornerstone-innovations.git
+git clone https://github.com/Redemption19/c-stone.git
 ```
 
 2. Install dependencies
 ```bash
-cd cornerstone-innovations
+cd c-stone
 npm install
 ```
 
