@@ -1,14 +1,34 @@
 import React from 'react';
-
+import MTNLogo from '@assets/images/partners/mtn-ghana.jpg';
+import TelecelLogo from '@assets/images/partners/telecel-ghana.jpeg';
+import ATLogo from '@assets/images/partners/at.png';
+import ADBAgric from '@assets/images/partners/adb.webp';
+import RDFImage from '@assets/images/partners/rdf.webp';
+// import CEOImage from '@assets/images/ceo-image.jpg';
 const partners = [
   {
+    name: 'MTN Ghana',
+    logo: MTNLogo,
+    category: 'Telecommunication',
+  },
+  {
+    name: 'Telecel Ghana',
+    logo: TelecelLogo,
+    category: 'Telecommunication',
+  },
+  {
+    name: 'AT Ghana',
+    logo: ATLogo,
+    category: 'Telecommunication',
+  },
+  {
     name: 'Ghana Agricultural Bank',
-    logo: 'https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    logo: ADBAgric,
     category: 'Financial Services',
   },
   {
     name: 'Rural Development Fund',
-    logo: 'https://images.pexels.com/photos/4314674/pexels-photo-4314674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    logo: RDFImage,
     category: 'Community Development',
   },
   {
@@ -31,6 +51,9 @@ const partners = [
     logo: 'https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80',
     category: 'Education',
   },
+  
+  
+
 ];
 
 const PartnerGrid = () => {
