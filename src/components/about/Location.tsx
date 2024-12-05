@@ -7,19 +7,19 @@ const Location = () => {
       city: 'Kpong',
       address: '123 Main Street, Kpong',
       phone: '0249594345 / 0277594345 / 0504594345',
-      hours: 'Mon-Fri: 8:00 AM - 5:00 PM',
+      hours: 'Mon-Sat: 7:00 AM - 8:00 PM',
     },
     {
       city: 'Somanya',
       address: '456 Market Road, Somanya',
       phone: '0249594345 / 0277594345 / 0504594345',
-      hours: 'Mon-Fri: 8:00 AM - 5:00 PM',
+      hours: 'Mon-Sat: 7:00 AM - 8:00 PM',
     },
     {
       city: 'Akosombo',
       address: '789 Lake Street, Akosombo',
       phone: '0249594345 / 0277594345 / 0504594345',
-      hours: 'Mon-Fri: 8:00 AM - 5:00 PM',
+      hours: 'Mon-Sat: 7:00 AM - 8:00 PM',
     },
   ];
 
