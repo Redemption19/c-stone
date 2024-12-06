@@ -4,6 +4,10 @@ import TelecelLogo from '@assets/images/partners/telecel-ghana.jpeg';
 import ATLogo from '@assets/images/partners/at.png';
 import ADBAgric from '@assets/images/partners/adb.webp';
 import RDFImage from '@assets/images/partners/rdf.webp';
+import TechBridge from '@assets/images/partners/tech-bridge.jpg';
+import LivestockFarming from '@assets/images/partners/livestock-farming.jpg';
+import MobileNetwork from '@assets/images/partners/mobile-network.png';
+import RuralEducation from '@assets/images/partners/rural-education.jpg';
 // import CEOImage from '@assets/images/ceo-image.jpg';
 const partners = [
   {
@@ -33,22 +37,22 @@ const partners = [
   },
   {
     name: 'TechBridge Ghana',
-    logo: 'https://images.unsplash.com/photo-1551836022-8b2858c9c69b?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80',
+    logo: TechBridge,
     category: 'Technology',
   },
   {
     name: 'Livestock Farmers Association',
-    logo: 'https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80',
+    logo: LivestockFarming,
     category: 'Agriculture',
   },
   {
     name: 'Mobile Network Ghana',
-    logo: 'https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80',
+    logo: MobileNetwork,
     category: 'Telecommunications',
   },
   {
     name: 'Rural Education Initiative',
-    logo: 'https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80',
+    logo: RuralEducation,
     category: 'Education',
   },
   
