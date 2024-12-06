@@ -2,6 +2,7 @@ import React from 'react';
 import { Tractor, Store, Users, Building2, Phone } from 'lucide-react';
 import SegmentCard from './SegmentCard';
 import { motion } from 'framer-motion';
+import TelcomUsers from '@assets/images/partners/telcom-user.webp';
 
 const segments = [
   {
@@ -14,7 +15,7 @@ const segments = [
       'Market access and fair pricing',
     ],
     icon: <Tractor className="w-8 h-8 text-green-600" />,
-    image: 'https://images.unsplash.com/photo-1595113316349-9fa4eb24f884?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80',
+    image: 'https://images.pexels.com/photos/7731770/pexels-photo-7731770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     link: '/services#livestock',
   },
   {
@@ -27,7 +28,7 @@ const segments = [
       'Business development support',
     ],
     icon: <Store className="w-8 h-8 text-green-600" />,
-    image: 'https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80',
+    image: 'https://images.pexels.com/photos/5922325/pexels-photo-5922325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     link: '/services#mfs',
   },
   {
@@ -53,7 +54,7 @@ const segments = [
       'Business networking',
     ],
     icon: <Building2 className="w-8 h-8 text-green-600" />,
-    image: 'https://images.unsplash.com/photo-1580674285054-bed31e145f59?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80',
+    image: 'https://images.pexels.com/photos/15424312/pexels-photo-15424312/free-photo-of-boy-sitting-on-sack-on-outdoor-market.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     link: '/services#mfs',
   },
   {
@@ -66,7 +67,7 @@ const segments = [
       'Mobile internet solutions',
     ],
     icon: <Phone className="w-8 h-8 text-green-600" />,
-    image: 'https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80',
+    image: TelcomUsers,
     link: '/services#telecom',
   },
 ];
