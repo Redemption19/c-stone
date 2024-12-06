@@ -1,18 +1,19 @@
 import React from 'react';
 import { Quote } from 'lucide-react';
+import ManagerADB from '@assets/images/partners/adb-manager.webp';
 
 const testimonials = [
   {
     quote: "Cornerstone Innovations has been instrumental in bridging the financial gap in rural Ghana. Their commitment to sustainable development aligns perfectly with our mission.",
-    author: "Dr. Kwame Mensah",
-    role: "Director, Ghana Agricultural Bank",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    author: " Mr. Kwame Asiedu Attrams",
+    role: "General Manager, Agribusiness at Agricultural Development Bank",
+    image: ManagerADB,
   },
   {
     quote: "The impact of our partnership with Cornerstone in improving rural telecommunications infrastructure has been remarkable. Together, we're connecting communities.",
     author: "Sarah Owusu",
     role: "CEO, Mobile Network Ghana",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    image: "https://images.pexels.com/photos/1820919/pexels-photo-1820919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
 ];
 
