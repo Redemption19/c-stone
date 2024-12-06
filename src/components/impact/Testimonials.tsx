@@ -6,19 +6,19 @@ const testimonials = [
     quote: "Thanks to Cornerstone's mobile banking services, I can now easily manage my farm's finances and receive payments from customers directly to my phone.",
     author: "Kwesi Addo",
     role: "Poultry Farmer, Kpong",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    image: "https://images.unsplash.com/photo-1518809595274-1471d16319b7?q=80&w=1418&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     quote: "The financial literacy program helped me understand how to better manage my small business. Now I'm able to save and plan for expansion.",
     author: "Ama Serwaa",
     role: "Market Vendor, Somanya",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    image: "https://images.unsplash.com/photo-1559172802-f5de3d1ed91d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     quote: "Having reliable phone and internet access has transformed how I connect with suppliers and customers. It's made my business more efficient.",
     author: "Yaw Mensah",
     role: "Local Entrepreneur, Akosombo",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
+    image: "https://images.unsplash.com/photo-1709004915865-38bc70f4cb78?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ];
 
