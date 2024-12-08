@@ -21,7 +21,7 @@ const ContactInfo = () => {
     {
       icon: <Clock className="w-6 h-6 text-green-600" />,
       title: 'Business Hours',
-      info: 'Mon - Fri: 8:00 AM - 5:00 PM',
+      info: 'Mon - Sat: 7:00 AM - 8:00 PM',
     },
   ];
 
